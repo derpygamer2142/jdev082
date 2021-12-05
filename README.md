@@ -2,7 +2,6 @@
 thanks to the developers of github-readme-stats.vercel.app
 
 # JaydenDevelopment, Fast, Secure, and Open Source software for Linux, MacOS, and Windows. \
-\
-## Some featured projects
-[FreeCat](https://jaydendev.github.io/freecat)\
-[]()\
+# Some featured projects
+[FreeCat](https://jaydendev.github.io/freecat) \
+[]()
