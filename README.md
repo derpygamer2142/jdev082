@@ -6,4 +6,4 @@ Fast, Secure, and Open Source software for Linux, MacOS, and Windows.
 ![trophy](https://github-profile-trophy.vercel.app/?username=JaydenDev)
 # Some featured projects
 [FreeCat](https://jaydendev.github.io/freecat) \
-[]()
+[Catalyst](https://github.com/JaydenDev/Catalyst)
