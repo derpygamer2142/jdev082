@@ -8,3 +8,4 @@ You will only receive support when the package is installed from the officially 
 NPM (or any related software installing from the npmjs repositories) or from GitHub. \
 Any external sites that use npmjs repositories will not be accepted for support. \
 As they can or could of modified the software or installed improperly. \
+It's always recommended to get software from officially supported sources!
