@@ -5,3 +5,4 @@
 - Transparent or Blurred backgrounds of UI elements
 - Mostly Rounded Corners
 - Vibrant Colors, and Mixed Colors
+- Optional use of glassmorphism
