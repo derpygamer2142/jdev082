@@ -1,4 +1,4 @@
-# JaydenDev's modern design standards up to 2019
+# jdev082's modern design standards up to 2019
 - Mostly flat design language with some shadows
 - Mostly opaque UI elements
 - Fluent or all black minimal icons
