@@ -1,6 +1,6 @@
-# JaydenDev Software Terms
+# jdev082 Software Terms
 The below applies to any or all software written
-by or maintained by JaydenDev 
+by or maintained by jdev082 
 or any related software development online accounts, 
 repositories, and sources. 
 # Software Sources and Support
